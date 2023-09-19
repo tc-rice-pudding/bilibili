@@ -1,0 +1,37 @@
+:root {
+    --brand_pink: var(--Pi5);
+    --brand_pink_thin: var(--Pi1);
+    --brand_blue: #00aeec;
+    --brand_blue_thin: var(--Lb1);
+    --stress_red: var(--Re5);
+    --stress_red_thin: var(--Re1);
+    --success_green: var(--Gr5);
+    --success_green_thin: var(--Gr1);
+    --operate_orange: var(--Or5);
+    --operate_orange_thin: var(--Or1);
+    --pay_yellow: var(--Ye5);
+    --pay_yellow_thin: var(--Ye1);
+    --bg1: #ffffff;
+    --bg2: var(--Ga0);
+    --bg3: var(--Ga1);
+    --bg1_float: #ffffff;
+    --bg2_float: #f1f2f3;
+    --text_white: #ffffff;
+    --text1: var(--Ga10);
+    --text2: #61666d;
+    --text3: var(--Ga5);
+    --text4: var(--Ga3);
+    --text_link: var(--Lb6);
+    --text_notice: var(--Ye6);
+    --line_light: #f1f2f3;
+    --line_regular: #e3e5e7;
+    --line_bold: var(--Ga3);
+    --graph_white: var(--Wh0_u);
+    --graph_bg_thin: #f6f7f8;
+    --graph_bg_regular: #f1f2f3;
+    --graph_bg_thick: #e3e5e7;
+    --graph_weak: var(--Ga3);
+    --graph_medium: var(--Ga5);
+    --graph_icon: var(--Ga7);
+    --shadow: var(--Ba0)
+}
